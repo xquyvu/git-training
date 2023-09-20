@@ -21,3 +21,10 @@ def add_2(x):
 
 
     
+
+def add_4(x):
+    '''
+    adding 4
+    '''
+    return x + 4
+
