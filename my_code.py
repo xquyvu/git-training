@@ -8,3 +8,10 @@ def g():
 
 print(1)
 print(2)
+
+def add_4(x):
+    '''
+    adding 4
+    '''
+    return x + 4
+
